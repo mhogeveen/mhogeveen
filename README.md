@@ -1,3 +1,2 @@
 # mhogeveen
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhogeveen&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/4798d730-340c-472a-9a2b-d6f32320e19d.svg)](https://wakatime.com/@4798d730-340c-472a-9a2b-d6f32320e19d)
